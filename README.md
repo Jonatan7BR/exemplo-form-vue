@@ -6,11 +6,11 @@ Para executar este projeto localmente, primeiro você deve executar o servidor d
 
 Em seguida, clone este projeto na sua máquina local, abra uma janela de terminal na pasta dele e execute o comando
 
-`npm install`
+`yarn`
 
 E, em seguida, o comando
 
-`npm run dev`
+`yarn dev`
 
 Node.js deve estar instalado para executar este projeto.
 
