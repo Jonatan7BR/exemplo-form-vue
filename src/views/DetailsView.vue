@@ -238,7 +238,7 @@ watch(person, () => {
     justify-content: flex-end;
   }
 
-  :nth-child(event) {
+  :nth-child(even) {
     display: flex;
     justify-content: flex-start;
   }
